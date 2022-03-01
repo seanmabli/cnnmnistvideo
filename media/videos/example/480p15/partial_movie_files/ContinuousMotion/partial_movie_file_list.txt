@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/runner/cnnmnistvideo/media/videos/example/480p15/partial_movie_files/ContinuousMotion/3163782288_14804188_552866380.mp4'
